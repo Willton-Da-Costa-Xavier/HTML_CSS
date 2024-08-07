@@ -27,6 +27,8 @@ span#burger{
     text-align: center;
     padding: 10px;
     cursor: pointer;
+    padding-top: 10px;
+    height: 30px;
 }
 
 span#burger:hover{
@@ -50,6 +52,8 @@ menu>ul>li>a{
     background-color: rgb(95, 95, 95);
     color: white;
     border-top: 2px solid gray;
+    padding-top: 10px;
+    height: 30px;
 }
 
 menu > ul > li > a:hover{
